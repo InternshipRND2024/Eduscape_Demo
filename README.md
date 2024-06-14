@@ -1,3 +1,3 @@
-# Instructions for demo:
+# Instructions for Eduscape Demo:
 
 Thank you.
